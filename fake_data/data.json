@@ -1,0 +1,26 @@
+[
+    {
+        "Id":"1",
+        "FormOder": 1,
+        "FormGroup": 2,
+        "FormType": "TextField",
+        "FormLabel": "Name",
+        "FormValue": "Vũ trường"
+    },
+    {
+        "Id":"2",
+        "FormOder": 1,
+        "FormGroup": 2,
+        "FormType": "NumberField",
+        "FormLabel": "Age",
+        "FormValue": "23"
+    },
+    {
+        "Id":"3",
+        "FormOder": 1,
+        "FormGroup": 2,
+        "FormType": "PasswordField",
+        "FormLabel": "Password",
+        "FormValue": "Vũ trường"
+    }
+]
